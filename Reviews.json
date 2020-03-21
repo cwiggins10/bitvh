@@ -1,0 +1,25 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ -86.0580710, 41.6887560 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "https://www.google.com/maps/place//data=!4m2!3m1!1s0x0:0x7018cdda062c38ca",
+      "Location" : {
+        "Address" : "30801 Old U.S. 20, Elkhart, IN 46514, United States",
+        "Business Name" : "TWISTED TATTOO",
+        "Country Code" : "US",
+        "Geo Coordinates" : {
+          "Latitude" : "41.6887560",
+          "Longitude" : "-86.0580710"
+        }
+      },
+      "Published" : "2020-03-01T20:28:02.414Z",
+      "Review Comment" : "Ok",
+      "Star Rating" : 3
+    },
+    "type" : "Feature"
+  } ]
+}
